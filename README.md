@@ -72,3 +72,7 @@ python evaluate_model.py
 ```bash
 python create_report.py
 ```
+
+
+## P.S.
+The output_accident_model and the test_dataset aren't uploaded because of the amount of weight of the files. You could just find some images in Keggle from datasets and the output_accident_model folders is gonna be made by itself when you run the scripts.
