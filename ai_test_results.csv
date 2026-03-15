@@ -1,0 +1,301 @@
+Filename,True Category,AI Prediction,Result,Raw AI Answer
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Accident,Non Accident,❌ WRONG,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Accident,Accident,✅ CORRECT,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Accident,❌ WRONG,An accident is occurring in this CCTV frame. Vehicles have collided.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
+Unknown_Image,Non Accident,Non Accident,✅ CORRECT,No accident detected. The traffic and scene appear normal.
