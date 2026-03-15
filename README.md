@@ -12,15 +12,16 @@ I used a large AI model called **Qwen2.5-VL-7B** and fine-tuned it on my own cus
 ## 📂 Folder Setup
 To make the code work, your folders need to look like this:
 
+```text
 📁 Project Folder
  ├── 📁 test_dataset                 # Put your pictures in here to test them
  │    ├── 📁 Accident                # Pictures of crashes
  │    └── 📁 Non Accident            # Pictures of normal traffic
  ├── 📁 output_accident_model        # The folder where the trained AI brain is saved
- ├── evaluate_model.py               # The script to test the AI
- └── create_report.py                # The script to make the Excel file
- └── grading.py                      # The script to grade the performance
- └── processing_image.py             # The script to process the images into json
+ ├── evaluate_model.py               # The script to test the AI on the whole folder
+ ├── create_report.py                # The script to make the Excel file
+ ├── grading.py                      # The script to grade the performance
+ ├── processing_image.py             # The script to process the images into json
  └── test_model.py                   # The script to test the Model on a SINGLE image
  
  
