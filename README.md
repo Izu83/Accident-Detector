@@ -23,7 +23,7 @@ To make the code work, your folders need to look like this:
  ├── grading.py                      # The script to grade the performance
  ├── processing_image.py             # The script to process the images into json
  └── test_model.py                   # The script to test the Model on a SINGLE image
- 
+ ```
  
 ---
 
